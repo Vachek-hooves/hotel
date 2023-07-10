@@ -1,1 +1,1 @@
-# hotel-deploy
+# hotel
